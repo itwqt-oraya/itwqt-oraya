@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/ll-nN7OlM-QAAAAM/katseye-megan.gif"  />
+<img align="right" height="auto" src="https://media.tenor.com/ll-nN7OlM-QAAAAM/katseye-megan.gif"  />
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
