@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="auto" src="https://media.tenor.com/ll-nN7OlM-QAAAAM/katseye-megan.gif"  />
+<img align="right" height="250px" src="https://media1.tenor.com/m/_EEoR6je7KIAAAAC/katseye-sophia.gif"  />
 
 ###
 
